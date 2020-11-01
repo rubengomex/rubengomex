@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as Senior Full Stack Enginneer at [@lifebit-ai](https://github.com/lifebit-ai).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems and UI/UX Design.
-- ✍️ &nbsp; Pursuing Full Stack Development, Blog Writing and Content Creator ([@rgodev](https://github.com/rgodev)) as hobbies/side hustles. 
+- ✍️ &nbsp; Pursuing Full Stack Development, Blog Writing and Content Creator as hobbies/side hustles. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

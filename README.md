@@ -54,12 +54,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<!--><a href="https://www.rubengomes.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rubengomes.me-blue?style=flat-square&logo=google-chrome"></a></-->
+<a href="https://www.rubengomes.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rubengomes.me-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/rgodev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rúben%20Gomes-blue?style=flat-square&logo=linkedin"></a>  
 <a href="https://twitter.com/rgodev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgodev-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.twitch.tv/rgodev"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-rgodev-blue?style=flat-square&logo=twitch"></a> 
 <a href="https://https://www.youtube.com/channel/UCNh8MsdcyRoyMZRetA7cFXA/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-rgodev-blue?style=flat-square&logo=youtube"></a>
-<!-->
 <a href="mailto:gomesruben21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gomesruben21@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</-->
 </p>

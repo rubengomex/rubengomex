@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as Senior Full Stack Enginneer at [@lifebit-ai](https://github.com/lifebit-ai).
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems and UI/UX Design.
-- ✍️ &nbsp; Pursuing Full Stack Development, Blog Writing and Content Creator as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Full Stack Development, Blog Writing and Content Creator ([@rgodev](https://github.com/rgodev)) as hobbies/side hustles. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -67,6 +67,7 @@
 <a href="https://twitter.com/rgodev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-rgodev-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.twitch.tv/rgodev"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-rgodev-blue?style=flat-square&logo=twitch"></a> 
 <a href="https://www.youtube.com/channel/UCNh8MsdcyRoyMZRetA7cFXA/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-rgodev-blue?style=flat-square&logo=youtube"></a>
+<a href="https://github.com/rgodev"><img alt="Organization" src="https://img.shields.io/badge/Github-rgodev-blue?style=flat-square&logo=github"></a>
 <!---
 <a href="mailto:gomesruben21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gomesruben21@gmail.com-blue?style=flat-square&logo=gmail"></a>
 -->

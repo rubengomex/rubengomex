@@ -59,7 +59,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 <!---
 <a href="https://www.rubengomes.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rubengomes.me-blue?style=flat-square&logo=google-chrome"></a>
 -->

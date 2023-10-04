@@ -63,8 +63,9 @@
 <!---
 <a href="https://www.rubengomes.me/"><img alt="Website" src="https://img.shields.io/badge/Website-www.rubengomes.me-blue?style=flat-square&logo=google-chrome"></a>
 -->
-<a href="https://www.linkedin.com/in/gorudev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gorudev-blue?style=flat-square&logo=linkedin"></a>  
 <a href="https://twitter.com/gorudev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-gorudev-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.instagram.com/_gorudev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gorudev-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/gorudev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gorudev-blue?style=flat-square&logo=linkedin"></a>    
 <a href="https://www.twitch.tv/gorudev"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-gorudev-blue?style=flat-square&logo=twitch"></a> 
 <a href="https://www.youtube.com/channel/UCNh8MsdcyRoyMZRetA7cFXA/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-gorudev-blue?style=flat-square&logo=youtube"></a>
 <a href="https://github.com/gorudev"><img alt="Organization" src="https://img.shields.io/badge/Github-gorudev-blue?style=flat-square&logo=github"></a>
